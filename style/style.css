@@ -1,0 +1,26 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    height: 300px;
+    width: 600px;
+    border: 1px solid black;
+    margin:150px;
+    margin-left: 500px;
+    
+}
+.bg{
+    color:aliceblue;
+    font-size: 25px;
+    width:300px;
+    margin-top: 100px;
+    padding: 10px;
+    margin-left: 150px;
+    
+}
+.button{
+    margin-top: 20px;
+    margin-left: 265px;
+    padding: 10px;
+}
